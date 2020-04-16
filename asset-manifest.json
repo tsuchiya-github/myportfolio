@@ -1,26 +1,38 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5de080f.chunk.css",
-    "main.js": "/static/js/main.158a293f.chunk.js",
-    "main.js.map": "/static/js/main.158a293f.chunk.js.map",
+    "main.css": "/static/css/main.d5cad69d.chunk.css",
+    "main.js": "/static/js/main.ceaac9fd.chunk.js",
+    "main.js.map": "/static/js/main.ceaac9fd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.13135219.js",
     "runtime-main.js.map": "/static/js/runtime-main.13135219.js.map",
     "static/css/2.e4346227.chunk.css": "/static/css/2.e4346227.chunk.css",
-    "static/js/2.cb0c3f0d.chunk.js": "/static/js/2.cb0c3f0d.chunk.js",
-    "static/js/2.cb0c3f0d.chunk.js.map": "/static/js/2.cb0c3f0d.chunk.js.map",
+    "static/js/2.693097a3.chunk.js": "/static/js/2.693097a3.chunk.js",
+    "static/js/2.693097a3.chunk.js.map": "/static/js/2.693097a3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4cc6d5a694e50f198034e2c05a360496.js": "/precache-manifest.4cc6d5a694e50f198034e2c05a360496.js",
+    "precache-manifest.a73fdfa19ec6448f963b1129dee40581.js": "/precache-manifest.a73fdfa19ec6448f963b1129dee40581.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.b5de080f.chunk.css.map": "/static/css/main.b5de080f.chunk.css.map",
-    "static/js/2.cb0c3f0d.chunk.js.LICENSE.txt": "/static/js/2.cb0c3f0d.chunk.js.LICENSE.txt",
-    "static/media/me.JPG": "/static/media/me.4202a542.JPG"
+    "static/css/main.d5cad69d.chunk.css.map": "/static/css/main.d5cad69d.chunk.css.map",
+    "static/js/2.693097a3.chunk.js.LICENSE.txt": "/static/js/2.693097a3.chunk.js.LICENSE.txt",
+    "static/media/aws-uploader.png": "/static/media/aws-uploader.b73d521b.png",
+    "static/media/bangkok.jpg": "/static/media/bangkok.684cfe73.jpg",
+    "static/media/contact.JPG": "/static/media/contact.9b59291c.JPG",
+    "static/media/desk.jpg": "/static/media/desk.df988c0c.jpg",
+    "static/media/hackfuture.png": "/static/media/hackfuture.376c7c0f.png",
+    "static/media/hearing-robot.png": "/static/media/hearing-robot.8b05810f.png",
+    "static/media/lab.png": "/static/media/lab.c2ee291c.png",
+    "static/media/line.png": "/static/media/line.ff86c066.png",
+    "static/media/me.JPG": "/static/media/me.4202a542.JPG",
+    "static/media/portfolio.png": "/static/media/portfolio.f175d37f.png",
+    "static/media/questionnaire.png": "/static/media/questionnaire.52baab92.png",
+    "static/media/roaddamage.png": "/static/media/roaddamage.3b462a3e.png",
+    "static/media/App.css": "/static/media/wallpaper.d6e8d58b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.13135219.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.cb0c3f0d.chunk.js",
-    "static/css/main.b5de080f.chunk.css",
-    "static/js/main.158a293f.chunk.js"
+    "static/js/2.693097a3.chunk.js",
+    "static/css/main.d5cad69d.chunk.css",
+    "static/js/main.ceaac9fd.chunk.js"
   ]
 }
