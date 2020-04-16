@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
+import contact from './../images/contact.JPG';
+import line from './../images/line.png';
 
 class Contact extends Component {
     render() {
@@ -9,7 +11,7 @@ class Contact extends Component {
                     <Cell col={6} tablet={12} phone={12}>
                         <h2>Haruki Tsuchiya</h2>
                         <img
-                            src="contact.jpg"
+                            src={contact}
                             alt="avatar"
                             style={{height: '400px'}}
                         />
@@ -31,7 +33,7 @@ class Contact extends Component {
                                 <ListItem>
                                     <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                                         <img
-                                        src="line.png"
+                                        src={line}
                                         alt="avatar"
                                         />
                                         1ha1ru0ki1

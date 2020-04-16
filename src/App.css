@@ -5,7 +5,7 @@
 }
 
 .landing-grid {
-    background: url(/wallpaper.jpg) center center / cover no-repeat fixed;
+    background: url(./images/wallpaper.jpg) center center / cover no-repeat fixed;
     background-attachment: fixed;
     text-align: center;
     /* position: fixed; */
@@ -17,7 +17,7 @@
 
 /* resume page css */
 .resume {
-    background: url(/wallpaper.jpg) center center / cover no-repeat fixed;
+    background: url(./images/wallpaper.jpg) center center / cover no-repeat fixed;
     background-attachment: fixed;
 }
 .resume-right-col {
@@ -122,17 +122,17 @@
 }
 
 .projects {
-    background: url(/wallpaper.jpg) center center / cover no-repeat fixed;
+    background: url(./images/wallpaper.jpg) center center / cover no-repeat fixed;
     background-attachment: fixed;
     
 }
 
-.projects-deep-grid {
+.projects-title-grid {
     display: inline-block;
     width: 100%;
 }
 
-.projects-deep-grid h1{
+.projects-title-grid h1{
     font-family: 'Anton';
     padding-top: 0;
     text-align: center;
@@ -141,13 +141,13 @@
     color: white;
 }
 
-.projects-deep-grid h2{
+.projects-title-grid h2{
     font-family: 'Anton';
     padding-top: 0;
     text-align: center;
     font-size: 44px;
     font-weight: bold;
-    color: white;
+    color: #27221F;
 }
 
 .resume h2 {
@@ -160,7 +160,7 @@
     margin: 0 auto;
 }
 
-.projects-deep-grid hr {
+.projects-title-grid hr {
     border-top: 5px dotted #27221F;
     width: 85%;
     margin: auto;

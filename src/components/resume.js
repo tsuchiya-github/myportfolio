@@ -4,6 +4,7 @@ import Education from './education';
 import Experience from './experience';
 import Skills from './skills';
 import Conference from './conference';
+import desk from './../images/desk.jpg';
 
 class Resume extends Component {
     render() {
@@ -13,7 +14,7 @@ class Resume extends Component {
                     <Cell col={4} tablet={8}>
                         <div style={{textAlign: 'center'}}>
                             <img
-                                src="desk.jpg"
+                                src={desk}
                                 alt="avatar"
                                 style={{height: '400px'}}
                             />
