@@ -30,7 +30,7 @@ class Projects extends Component {
                                     Reactを使用 <br /><br />
                                 </CardText>
                                 <CardActions border>
-                                    <a href="https://github.com/tsuchiya-github/ReactPortfolio" target="_blank">
+                                    <a href="https://github.com/tsuchiya-github/ReactPortfolioc/" target="_blank">
                                         <Button colored>Github</Button>
                                     </a>
                                 </CardActions>
